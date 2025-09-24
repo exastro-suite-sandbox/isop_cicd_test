@@ -4,5 +4,5 @@
 ################################################
 - name: pause for a timed delay
   ansible.builtin.pause:
-    minutes: 3
+    minutes: 5
 
